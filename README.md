@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissJamiE7018
 - 👀 I’m primarily interested in network and server automation tools.
-- 🌱 I’m currently learning everything I can (but mainly need to learn powershell, python, Shibboleth right now)
+- 🌱 I’m currently learning everything I can (but mainly need to learn bash, python)
 - 💞️ I’m looking to collaborate on anything I have knowledge about.
 - 📫 How to reach me - email MissJamiE7018@gmail.com
 
